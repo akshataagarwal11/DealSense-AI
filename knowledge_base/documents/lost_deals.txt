@@ -1,0 +1,33 @@
+Historical Lost Deals
+
+Deal ID: LOST-001
+Industry: Retail
+Amount: $310,000
+Outcome: Lost
+Reason:
+- No customer activity for 32 days
+- No executive sponsor
+- Procurement engagement started too late
+
+--------------------------------------------------
+
+Deal ID: LOST-002
+Industry: Technology
+Amount: $145,000
+Outcome: Lost
+Reason:
+- Opportunity remained in Proposal stage for 68 days
+- Multiple missed follow-up meetings
+- No documented next steps
+
+--------------------------------------------------
+
+Deal ID: LOST-003
+Industry: Manufacturing
+Amount: $820,000
+Outcome: Lost
+Reason:
+- Security review delayed
+- Customer priorities changed
+- Close date slipped three times
+- Opportunity became inactive

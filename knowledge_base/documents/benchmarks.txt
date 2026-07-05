@@ -1,0 +1,31 @@
+DealSense AI Sales Benchmarks v1.0
+
+Sales Performance Benchmarks
+
+Average Win Rate
+- Enterprise: 32%
+- Mid-Market: 41%
+- SMB: 53%
+
+Customer Activity Benchmarks
+- High-performing deals average one customer interaction every 5 days.
+- Opportunities with more than 21 days of inactivity have a significantly lower win rate.
+- Deals with documented next steps after every customer meeting close faster.
+
+Sales Stage Benchmarks
+- Qualification: 7–14 days
+- Discovery: 10–20 days
+- Proposal: 15–30 days
+- Negotiation: 10–20 days
+
+Risk Indicators
+- Opportunity remains in one stage for more than 45 days.
+- Probability below 20% after Discovery.
+- No executive sponsor identified.
+- Multiple close date extensions.
+
+Positive Indicators
+- Executive sponsor actively engaged.
+- Procurement involved early.
+- Security review completed before negotiation.
+- Recent customer meetings with documented action items.

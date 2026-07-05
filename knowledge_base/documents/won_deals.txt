@@ -1,0 +1,35 @@
+Historical Won Deals
+
+Deal ID: WON-001
+Industry: Healthcare
+Amount: $185,000
+Outcome: Won
+Reason:
+- Weekly customer engagement
+- Executive sponsor identified
+- Clear implementation timeline
+- Next steps documented after every meeting
+
+--------------------------------------------------
+
+Deal ID: WON-002
+Industry: Financial Services
+Amount: $420,000
+Outcome: Won
+Reason:
+- Opportunity reached Negotiation within 30 days
+- Activity every 4–5 days
+- Procurement involved early
+- Strong executive alignment
+
+--------------------------------------------------
+
+Deal ID: WON-003
+Industry: Manufacturing
+Amount: $610,000
+Outcome: Won
+Reason:
+- Enterprise customer
+- Human review completed
+- Security questionnaire resolved early
+- Consistent executive communication

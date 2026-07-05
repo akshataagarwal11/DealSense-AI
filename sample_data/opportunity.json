@@ -1,0 +1,20 @@
+{
+    "id": "0065g00000ABC123",
+    "name": "Acme Corp - Enterprise Suite",
+    "account_name": "Acme Corporation",
+    "stage": "Proposal",
+    "amount": 280000,
+    "probability": 55,
+    "close_date": "2026-07-30",
+    "days_to_close": 35,
+    "days_since_activity": 23,
+    "days_in_stage": 47,
+    "last_activity_date": "2026-06-02",
+    "company_size": "Enterprise",
+    "num_employees": 3200,
+    "lead_source": "Website",
+    "next_step": "Schedule pricing review with procurement",
+    "description": "Enterprise platform expansion opportunity.",
+    "owner_name": "Jane Smith",
+    "owner_email": "jane.smith@example.com"
+  }

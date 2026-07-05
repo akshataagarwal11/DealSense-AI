@@ -1,0 +1,25 @@
+DealSense AI Risk Policy v1.0
+
+High Risk Criteria
+- No customer activity for more than 21 days.
+- Opportunity has remained in the same stage for more than 45 days.
+- Opportunity close date has already passed.
+- Customer has not committed to a clear next step.
+
+Medium Risk Criteria
+- Low probability (<20%) outside Prospecting or Qualification.
+- Missing opportunity description.
+- Missing executive sponsor.
+
+Low Risk Signals
+- Customer activity within the last 3 days.
+- Opportunity is in Negotiation with recent customer engagement.
+- Clearly defined next steps.
+
+Human Review Required
+- Deal value greater than or equal to $500,000.
+- Strategic enterprise customer.
+- Exception requests requiring VP approval.
+
+Business Rule
+Guardrail rules take precedence over AI recommendations. The AI may explain the reasoning but must not override a critical guardrail.
